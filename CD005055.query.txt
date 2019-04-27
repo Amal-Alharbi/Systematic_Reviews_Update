@@ -1,0 +1,11 @@
+#1 exp Heart Defects, Congenital/
+#2 (congenital$ adj3 heart).tw.
+#3 (heart adj3 defect$).tw.
+#4 (heart adj3 abnormal$).tw.
+#5 or/1-4
+#6 Nitric oxide/
+#7 nitric oxide.tw.
+#8 ino.tw.
+#9 or/6-8
+#10 5 and 9
++ RCT filter terms.

@@ -1,0 +1,36 @@
+1 endometriosis/
+2 (adenomyosis or endometrio$).tw.
+3 or/1-2
+4 Ovulation Inhibition/
+5 (Ovulat$ adj5 (Inhibit$ or suppress$)).tw.
+6 exp contraceptives, oral/ or exp contraceptives, oral, combined/
+7 oral contraceptive$.tw.
+8 Danazol/
+9 danazol.tw.
+10 exp Gonadotropin-Releasing Hormone/
+11 (Gonadotropin-Releasing Hormone or GnRH).tw.
+12 exp Medroxyprogesterone/
+13 (Medroxyprogesterone or MPA).tw.
+14 gestrinone.mp. or Gestrinone/
+15 or/4-14
+16 3 and 15
+17 randomised controlled trial.pt.
+18 controlled clinical trial.pt.
+19 Randomized Controlled Trials/
+20 Random allocation/
+21 Double-blind method/
+22 Single-blind method/
+23 or/17-22
+24 clinical trial.pt.
+25 exp clinical trials/
+26 (clin$ adj25 trial$).ti,ab,sh.
+27 ((singl$ or doubl$ or tripl$ or trebl$) adj25 (blind$ or mask$)).ti,ab,sh.
+28 Placebos/
+29 placebo$.ti,ab,sh.
+30 random$.ti,ab,sh.
+31 Research design/
+32 or/24-31
+33 animal/ not (human/ and animal/)
+34 23 or 32
+35 34 not 33
+36 16 and 35

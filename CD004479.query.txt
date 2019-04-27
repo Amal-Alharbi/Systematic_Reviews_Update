@@ -1,0 +1,5 @@
+1. exp chest tubes/ or exp drainage/ or intercostals.mp. or exp thorax/ or chest drain*.mp. or exp suction/ or exp needles/ or exp catheterization/ or exp thoracotomy/ or exp thoracostomy/ or aspiration.mp. or (simple or manual).ti.
+2. exp pneumothorax, artificial/ or exp pneumothorax/ or pneumothorax*.mp.
+3. 1 and 2
+4. ((randomised controlled trial or controlled clinical trial).pt. or randomised.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) not (animals not (humans and animals)).sh.
+5. 3 and 4

@@ -1,0 +1,46 @@
+1 randomized controlled trial.pt.
+2 controlled clinical trial.pt.
+3 randomized controlled trials/
+4 random allocation/
+5 double-blind method/
+6 single-blind method/
+7 or/1-6
+8 animals/ not humans/
+9 7 not 8
+10 clinical trial.pt.
+11 exp clinical trials/
+12 (clin$ adj25 trial$).ti,ab.
+13 ((singl$ or doubl$ or tripl$ or trebl$) adj25 (blind$ or mask$)).ti,ab.
+14 placebos/
+15 placebo$.ti,ab.
+16 random$.ti,ab.
+17 research design/
+18 or/10-17
+19 18 not 8
+20 19 not 9
+21 comparative study/
+22 exp evaluation studies/
+23 follow up studies/
+24 prospective studies/
+25 (control$ or prospectiv$ or volunteer$).ti,ab.
+26 or/21-25
+27 26 not 8
+28 27 not (9 or 20)
+29 9 or 20 or 28
+30 Carpal Tunnel Syndrome.mp. or Carpal Tunnel Syndrome/
+31 (carp$ tunn$ or tunn$ syndrom$).mp
+32 (nerve entrapment or nerve compression or entrapment neuropath$).mp
+33 or/30-32
+34 epineurotomy.mp.
+35 reconstruct$.mp.
+36 release.mp.
+37 SURGERY/ or surgery.mp.
+38 SURGICAL PROCEDURES, OPERATIVE/ or surgical.mp.
+39 (splint or splints or splinting).mp.
+40 exp Anti-Inflammatory Agents, Non-Steroidal/ or non-steroidal anti-inflammatory.mp.
+41 NSAID$.mp.
+42 ((corticosteroid$ or steroid$) and injection$).mp. [mp=title, original title, abstract, name of substance word, subject heading word]
+43 diuretic$.mp. or exp DIURETICS/
+44 or/34-43
+45 33 and 44
+46 29 and 45

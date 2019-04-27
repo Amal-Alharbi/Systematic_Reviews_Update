@@ -1,0 +1,22 @@
+1. exp Kidney Failure Acute/
+2. acute kidney failure.tw.
+3. acute renal failure.tw.
+4. (ARF or AKF).tw.
+5. or/1-4
+6. exp Nutrition Therapy/
+7. Nutritional Requirements/
+8. Energy Intake/
+9. Parenteral Infusions/
+10. Intubation Gastrointestinal/
+11. Gastrostomy/
+12. Dietary Proteins/
+13. Amino Acids/
+14. Glucose/
+15. Food Formulated/
+16. nutri$ support$.tw.
+17. nutri$ requirement$.tw.
+18. (protein$ or glucose or amino acid$).tw.
+19. ((naso-gastric$ or nasogastric$ or nose or tube$ or ng or intravenous$ or iv$ or parenteral$ or enteral$ or jejunal$ or naso-jejunal$ or nasojejunal$) adj5 (nutri$ or feed$ or food$ or refeed$ or re-feed$ or refed$ or re-fed$ or diet$ or hyperalimentation$ or alimentation$ or fluid$)).tw.
+20. (energy intake or energy requirement$).tw.
+21. or/6-20
+22. and/5,21

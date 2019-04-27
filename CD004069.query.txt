@@ -1,0 +1,9 @@
+1. vitam*
+2. tocopherol*
+3. alpha-tocopherol*
+4. pregnan*
+5. #4 and (#1 or #2 or #3)
+6. random*
+7. controlled-clinical-trial
+8. #6 or #7
+9. #5 and #8

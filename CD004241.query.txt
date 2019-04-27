@@ -1,0 +1,35 @@
+1 randomized controlled trial.pt.
+2 (randomized or randomised).ab,ti.
+3 placebo.ab,ti.
+4 dt.fs.
+5 randomly.ab,ti.
+6 trial.ab,ti.
+7 groups.ab,ti.
+8 or/1-7
+9 exp animals/
+10 exp humans/
+11 9 not (9 and 10)
+12 8 not 11
+13 exp eye infections, fungal/
+14 exp keratitis/
+15 (fung$ adj2 keratit$).tw.
+16 (fung$ adj3 infect$ adj3 eye$).tw.
+17 (fung$ adj3 infect$ adj3 ocular).tw.
+18 keratom?cosis.tw.
+19 or/13-18
+20 exp antifungal agents/
+21 exp natamycin/
+22 natamycin$.tw.
+23 exp chlorhexidine/
+24 chlorhexidine$.tw.
+25 exp econazole/
+26 econazole$.tw.
+27 exp itraconazole/
+28 itraconazole$.tw.
+29 exp miconazole/
+30 miconazole$.tw.
+31 antifung$.tw.
+32 anti fung$.tw.
+33 or/20-32
+34 19 and 33
+35 12 and 34

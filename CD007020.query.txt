@@ -1,0 +1,5 @@
+1."cystic fibrosis" [TIAB] OR (mucoviscidosis[TIAB] OR mucoviscidosis[MeSH Terms]) OR ("fibrocystic disease of pancreas" [TIAB]
+2."vitamin E"[TIAB] OR tocopherol OR tocotrienol OR alpha-tocopherol OR beta-carotene OR betacarotene OR "vitamin C" OR "ascorbic acid" OR "l-ascorbic acid" OR "ferrous ascorbate" OR "hybrin magnesium ascorbicum" OR magnorbin OR "sodium ascorbate" OR selenium OR antioxidant$
+3.#1 AND #2
+4.((clinical[Title/Abstract] AND trial[Title/Abstract]) OR clinical trials[MeSH Terms] OR clinical trial[Publication Type] OR random*[Title/Abstract] OR random allocation[MeSH Terms] OR therapeutic use[MeSH Subheading]) AND humans[MeSH]
+5.#3 AND #4

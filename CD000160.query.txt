@@ -1,0 +1,28 @@
+1 Endarterectomy, carotid/
+2 exp carotid arteries/su (surgery)
+3 exp carotid artery diseases/su
+4 exp carotid arteries/
+5 exp carotid artery diseases/
+6 carotid.tw.
+7 4 or 5 or 6
+8 endarterectomy/
+9 (endarterectom$ or surg$).tw.
+10 8 or 9
+11 7 and 10
+12 1 or 2 or 3 or 11
+13 randomized controlled trial.pt.
+14 randomized controlled trials as topic/
+15 controlled clinical trial.pt.
+16 controlled clinical trials as topic/
+17 random allocation/
+18 clinical trial.pt.
+19 exp clinical trials as topic/
+20 (clin$ adj25 trial$).tw.
+21 random$.tw.
+22 research design/
+23 intervention studies/
+24 control$.tw.
+25 patch$.tw.
+26 or/13-25
+27 12 and 26
+28 limit 27 to humans

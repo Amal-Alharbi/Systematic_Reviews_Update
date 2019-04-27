@@ -1,0 +1,12 @@
+1. exp DENTISTRY/
+2. (dental$ or dentist$ or "oral surg$" or orthodont$ or pulpotom$ or pulpect$ or endodont$ or "pulp cap$").mp.
+3. ((dental or tooth or teeth) and (fill$ or restor$ or extract$ or remov$ or "cavity prep$" or caries or carious or decay$)).mp.
+4. ("root canal therapy" or "tooth replant$").mp.
+5. or/1-4
+6. exp ANALGESICS/
+7. analgesi$.mp.
+8. exp ANTI-INFLAMMATORY AGENTS, NON-STEROIDAL/
+9. ("nonsteroidal anti-inflammatory agent$" or "anti inflammatory agent$" or "nonsteroidal antiinflammatory agent$" or "non steroidal antiinflammatory agent$" or "Nonsteroidal analgesic$" or "anti-inflammator$" or "aspirin-like agent$" or NSAID$).mp.
+10. IBUPROFEN/
+11. (ibuprofen or brufen).mp.
+12. exp Acetaminophen/ (acetaminophen or paracetamol).mp. or/6-13 exp CHILD/ INFANT/ ADOLESCENT/ (child$ or infant$ or adolescen$).ab,sh,ti. (pediatric$ or paediatric$).ab,sh,ti. Dental Care for Children/ or/15-20 5 and 14 and 21

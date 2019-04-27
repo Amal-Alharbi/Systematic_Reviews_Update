@@ -1,0 +1,35 @@
+1 music/
+2 music therapy/
+3 (music$ or rhythm$ or melod$).tw.
+4 (singing or sing or song$ or compos$ or improvis$).tw.
+5 or/1-4
+6 Respiration artificial/
+7 (artificial adj5 ventil$).tw.
+8 (Ventilat$ adj5 mechanical).tw.
+9 Intubation, intratracheal/
+10 exp respiratory insufficiency/
+11 (respiratory failure or (respiratory adj5 failure)).tw.
+12 Suction/
+13 or/6-12
+14 randomized controlled trial.pt.
+15 controlled clinical trial.pt.
+16 randomized controlled trial.sh.
+17 random allocation.sh.
+18 double blind method.sh.
+19 single blind method.sh.
+20 or/14-19
+21 (animals not human).sh.
+22 20 not 21
+23 clinical trial.pt.
+24 exp clinical trial/
+25 (clin$ adj25 trial$).ti,ab.
+26 ((singl$ or doubl$ or trebl$ or tripl$) adj25 (blind$ or mask$)).ti,ab.
+27 placebos.sh.
+28 placebo$.ti,ab.
+29 random$.ti,ab.
+30 research design.sh.
+31 or/23-30
+32 31 not 21
+33 22 or 32
+34 5 and 13
+35 33 and 34

@@ -1,0 +1,52 @@
+1. Reminder Systems/
+2. exp Patient Compliance/
+3. Treatment Refusal/
+4. Patient Dropouts/
+5. exp Attitude to Health/
+6. Patient Satisfaction/
+7. (complian* or noncomplian* or non-complian*).tw.
+8. (adhere* or nonadhere* or non-adhere*).tw.
+9. persist*.tw.
+10. (refusal or refuse*).tw.
+11. (improve* adj5 (followup or follow up)).tw.
+12. (dropout* or drop out*).tw.
+13. (treatment adj5 (stop* or abandon*)).tw.
+14. (patient* adj5 (attitude* or acceptance or satisfaction)).tw.
+15. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14
+16. Drug Packaging/
+17. Drug Labeling/
+18. Drug Delivery Systems/
+19. exp Pharmaceutical Preparations/ad [Administration & Dosage]
+20. (blister adj2 (pack* or pak*)).tw.
+21. (calendar adj2 (pack* or pak*)).tw.
+22. (c-pak or c-pack or c-cap*).tw.
+23. (bubble adj2 (pack* or pak*)).tw.
+24. ((pill* or medication*) adj2 (pack* or organizer* or organiser* or delivery system* or container* or box* or dispenser* or device*)).tw.
+25. ((multicompartment or multi-compartment) adj2 (pack* or organizer* or organiser* or delivery system* or container* or box* or dispenser* or device*)).tw.
+26. (doset* or dosset*).tw.
+27. packag*.tw.
+28. ((prescription* or refill* or medication*) adj2 reminder*).tw.
+29. ((prescription* or medication* or drug* or compliance or adherence) adj2 refill*).tw.
+30. ((compliance or adherence or persistence or reminder or prompt*) adj (device* or aid or aids)).tw.
+31. mediset.tw.
+32. medidos.tw.
+33. manrex.tw.
+34. medi-dispenser*.tw.
+35. pre-pack*.tw.
+36. nomad*.tw.
+37. "unit of use pack*".tw.
+38. value added utilities.tw.
+39. 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38
+40. 39 and 15
+41. randomized controlled trial.pt.
+42. controlled clinical trial.pt.
+43. randomized.ab.
+44. placebo.ab.
+45. clinical trials as topic.sh.
+46. randomly.ab.
+47. trial.ti.
+48. 43 or 41 or 44 or 47 or 42 or 46 or 45
+49. exp Animals/ not (Humans/ and exp Animals/)
+50. 48 not 49
+51. 50 and 40
+52. limit 51 to yr="2005 - 2010"

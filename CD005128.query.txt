@@ -1,0 +1,13 @@
+1. Purpura, Schoenlein-Henoch/
+2. henoch scho?nlein purpura.tw.
+3. scho?nlein henoch purpura.tw.
+4. allergic purpura.tw.
+5. anaphylactoid purpura.tw.
+6. henoch purpura.tw.
+7. (nonthrombocytop?enic purpura or non thrombocytop?enic purpura).tw.
+8. leukocytoclastic vasculitis.tw.
+9. peliosis rheumatica.tw.
+10. purpura rheumatica.tw.
+11. rheumatoid purpura.tw.
+12. scho?nlein disease.tw.
+13. or/1-12

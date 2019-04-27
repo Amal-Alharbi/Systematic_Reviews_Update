@@ -1,0 +1,21 @@
+1 exp Otitis Media/
+2 otitis media.tw.
+3 (OM or OME or AOM or CSOM).tw.
+4 glue ear*.tw.
+5 (middle ear* adj5 (infect* or inflam*)).tw.
+6 or/1-5
+7 exp influenzavirus a/ or exp influenzavirus b/ or influenzavirus c/
+8 Influenza, Human/
+9 (influenza* or flu).tw.
+10 or/7-9
+11 exp Vaccines/
+12 exp Vaccination/
+13 (laiv or tiv).tw.
+14 exp Immunization/
+15 (vaccin* or immuni* or innocul*).tw.
+16 or/11-15
+17 10 and 16
+18 Viral Vaccines/
+19 Influenza Vaccines/
+20 or/17-19
+21 6 and 20

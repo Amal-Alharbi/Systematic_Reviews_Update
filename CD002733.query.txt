@@ -1,0 +1,1 @@
+((vaccin* or immuni*) and (influenza* or flu*)) or (flumist or trivalent or  CAIV or LAIV or medimmune)
