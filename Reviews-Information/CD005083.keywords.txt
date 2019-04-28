@@ -1,0 +1,11 @@
+*Honey
+*Wound Healing
+Administration, Topical
+Apitherapy/*methods
+Burns/*therapy
+Leg Ulcer/therapy
+Pressure Ulcer/therapy
+Randomized Controlled Trials as Topic
+Surgical Wound Infection/therapy
+Varicose Ulcer/therapy
+Wounds and Injuries/*therapy

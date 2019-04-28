@@ -1,0 +1,9 @@
+Anxiety [*therapy];
+Blood Pressure [physiology];
+Heart Rate [physiology];
+Music [*psychology];
+Music Therapy [*methods];
+Randomized Controlled Trials as Topic;
+Respiration, Artificial [adverse effects, *psychology];
+Respiratory Rate [physiology];
+Standard of Care;
