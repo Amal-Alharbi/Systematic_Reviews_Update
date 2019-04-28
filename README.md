@@ -8,6 +8,7 @@ The following information is available for each review:
 3. List of MeSH keywords associated with the review
 4. List of PMIDs for studies included in the original review
 5. List of PMIDs for studies included in the updated review
+6. Publication date of the original and updated review
 
 
 Paper: Amal Alharbi and Mark Stevenson, 'A Dataset of Systematic Reviews Updates', 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR19, July 21-25, 2019 (Paris, France) 
