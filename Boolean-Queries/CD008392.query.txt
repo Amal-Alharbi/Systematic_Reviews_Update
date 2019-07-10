@@ -9,4 +9,14 @@
 9. ("nonsteroidal anti-inflammatory agent$" or "anti inflammatory agent$" or "nonsteroidal antiinflammatory agent$" or "non steroidal antiinflammatory agent$" or "Nonsteroidal analgesic$" or "anti-inflammator$" or "aspirin-like agent$" or NSAID$).mp.
 10. IBUPROFEN/
 11. (ibuprofen or brufen).mp.
-12. exp Acetaminophen/ (acetaminophen or paracetamol).mp. or/6-13 exp CHILD/ INFANT/ ADOLESCENT/ (child$ or infant$ or adolescen$).ab,sh,ti. (pediatric$ or paediatric$).ab,sh,ti. Dental Care for Children/ or/15-20 5 and 14 and 21
+12. exp Acetaminophen/ 
+13. (acetaminophen or paracetamol).mp. 
+14. or/6-13 
+15. exp CHILD/ 
+16. INFANT/ 
+17. ADOLESCENT/ 
+18. (child$ or infant$ or adolescen$).ab,sh,ti. 
+19. (pediatric$ or paediatric$).ab,sh,ti. 
+20. Dental Care for Children/ 
+21. or/15-20 
+22. 5 and 14 and 21
