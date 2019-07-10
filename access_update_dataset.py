@@ -63,6 +63,3 @@ for review in reviews:
     
     #to print MeSHs extracted from the Boolean query
     print(reviews[review]['terms_meshs']['terms'])
-    
-    break
-
