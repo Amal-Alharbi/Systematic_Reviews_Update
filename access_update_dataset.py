@@ -30,13 +30,13 @@ for review in reviews:
     print(reviews[review]['keywords'])
     
     #to print PMIDs of search results for the original review 
-    print(reviews[review]['search_results']['original_ids'])
+    print(list(reviews[review]['search_results']['original_ids']))
     
     #to print full records of search results for the original review 
     print(reviews[review]['search_results']['original_records'])
     
     #to print PMIDs of search results for the updated review 
-    print(reviews[review]['search_results']['update_ids'])
+    print(list(reviews[review]['search_results']['update_ids']))
     
     #to print full records of search results for the updated review 
     print(reviews[review]['search_results']['update_records'])
